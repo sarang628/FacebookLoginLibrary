@@ -1,0 +1,305 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [:FacebookLoginLibrary] /Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/FacebookLoginLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-20:12
+MERGED from [androidx.databinding:viewbinding:4.2.0-alpha07] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/ff1fa457843c433412e48cb5759125dd/jetified-viewbinding-4.2.0-alpha07/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.3.1] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/70e048793d80d872f268890db84d7189/jetified-core-ktx-1.3.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.2.1] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/0dc302e0fcc5ec7d95ca12aaeba74169/material-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/40b9e09d9e482ee58e8895c9e251f4c6/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.android:facebook-login:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/d3444bc3973201febafd25627f8e030a/jetified-facebook-login-5.15.3/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:21:1-52:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/576120b47b5bf9ca8c98f1aa9c3adee4/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:dagger-android:2.29.1] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/e5847d638deeca1f65fa742201820640/jetified-dagger-android-2.29.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/263dcae026df431adfb3aa7d5090edf6/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/80a1acc9ebed5b60beeb27e2a578e850/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/2db11ef93d667a0234466906e0f78442/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/779f49ccc971510d6b9c7336db235321/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/0d386920344cc5c1479e835e61d28043/browser-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/c4d88180786e5b885c6a72408f4d582e/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/a5613cc8a90f24827d8e474c23e171f2/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/8cdaa22a8ecf9bee0157ebd1773ea758/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/72c44d07be5f7617e17c500d6c7cd077/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/cab775a407ad1e03d2f53e22a0cf7eb4/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/b574d3c193d6c215f321909fdd66414f/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/9e36abcc6d37f9e7a66f7a7864b01f17/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.android:facebook-core:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/05bedb1ad8cc29bd23be85cbe1a45fc9/jetified-facebook-core-5.15.3/AndroidManifest.xml:21:1-53:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/2fd5bc97707856c1d5b487a9d7d0a62d/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/75adb895cb718cf99349808d7e9a2e9a/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/d4b7c12fb00596576c82852beed4fb85/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/025d2bbe4fee036bced00cf0c6be1c91/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/8ee4e5bd731ae8f4abbc03060fe318e8/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/ecd3d9ca6d1e48ab29eaba14e0dd6ee3/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/6b48cc8f82951af9fb64f7e0ef2946e1/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/20e762442b52d59f98027491d3f53e6e/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/223213307bbc71b786924142b673f699/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/b8b71da05ccfd32ac352442571db71af/core-1.3.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/8baaa24691cd91aa6c070397ba201e9b/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7c6a28d94886e6ada73a6ff2de46668c/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/4849d036c6909edc0e28bee614bfe949/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/50ecbc659a0ab249b4f8089644aa3c52/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/3fee7128c108f28625eed830198d9c65/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/f61d1c5e8c68d320086b3a16342532c5/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/d0f8a7abee1dbb04a5476eec805daf66/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/36474852656cd7f1e2dc00a0aff4348b/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/150a2621922aeab203b5a92b59c8c604/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/2464eb19d518de314f9cd414bb9b5190/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/8f5e7a7b6d9306969e969bbf9fcbcc81/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/648e6da061d4386333f07c5d1a8e2bf5/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/ed2140bc0bd0ae68bce88dba68afb606/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/028434bb75e1cbe0fbeed66dcdc80014/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.29.1] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/4d20a7d4e09be4047eb06968f36a18c6/jetified-dagger-lint-aar-2.29.1/AndroidManifest.xml:16:1-19:12
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/fd564f966edf6b84bf7fa4da365ebfc8/jetified-installreferrer-1.0/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [:FacebookLoginLibrary] /Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/FacebookLoginLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-18:19
+MERGED from [:FacebookLoginLibrary] /Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/FacebookLoginLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-18:19
+MERGED from [com.google.android.material:material:1.2.1] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/0dc302e0fcc5ec7d95ca12aaeba74169/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/0dc302e0fcc5ec7d95ca12aaeba74169/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/40b9e09d9e482ee58e8895c9e251f4c6/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/40b9e09d9e482ee58e8895c9e251f4c6/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.android:facebook-login:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/d3444bc3973201febafd25627f8e030a/jetified-facebook-login-5.15.3/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/d3444bc3973201febafd25627f8e030a/jetified-facebook-login-5.15.3/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:29:5-50:19
+MERGED from [com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:29:5-50:19
+MERGED from [com.facebook.android:facebook-core:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/05bedb1ad8cc29bd23be85cbe1a45fc9/jetified-facebook-core-5.15.3/AndroidManifest.xml:28:5-51:19
+MERGED from [com.facebook.android:facebook-core:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/05bedb1ad8cc29bd23be85cbe1a45fc9/jetified-facebook-core-5.15.3/AndroidManifest.xml:28:5-51:19
+MERGED from [androidx.core:core:1.3.1] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/b8b71da05ccfd32ac352442571db71af/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/b8b71da05ccfd32ac352442571db71af/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/4849d036c6909edc0e28bee614bfe949/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/4849d036c6909edc0e28bee614bfe949/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/fd564f966edf6b84bf7fa4da365ebfc8/jetified-installreferrer-1.0/AndroidManifest.xml:11:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/fd564f966edf6b84bf7fa4da365ebfc8/jetified-installreferrer-1.0/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/b8b71da05ccfd32ac352442571db71af/core-1.3.1/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml:11:9-58
+activity#com.example.facebookloginlibrary.MainActivity
+ADDED from /Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml
+MERGED from [:FacebookLoginLibrary] /Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/FacebookLoginLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:FacebookLoginLibrary] /Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/FacebookLoginLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.databinding:viewbinding:4.2.0-alpha07] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/ff1fa457843c433412e48cb5759125dd/jetified-viewbinding-4.2.0-alpha07/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.2.0-alpha07] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/ff1fa457843c433412e48cb5759125dd/jetified-viewbinding-4.2.0-alpha07/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.3.1] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/70e048793d80d872f268890db84d7189/jetified-core-ktx-1.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.1] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/70e048793d80d872f268890db84d7189/jetified-core-ktx-1.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.2.1] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/0dc302e0fcc5ec7d95ca12aaeba74169/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/0dc302e0fcc5ec7d95ca12aaeba74169/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/40b9e09d9e482ee58e8895c9e251f4c6/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/40b9e09d9e482ee58e8895c9e251f4c6/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.android:facebook-login:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/d3444bc3973201febafd25627f8e030a/jetified-facebook-login-5.15.3/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/d3444bc3973201febafd25627f8e030a/jetified-facebook-login-5.15.3/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:25:5-27:41
+MERGED from [com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:25:5-27:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/576120b47b5bf9ca8c98f1aa9c3adee4/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/576120b47b5bf9ca8c98f1aa9c3adee4/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:dagger-android:2.29.1] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/e5847d638deeca1f65fa742201820640/jetified-dagger-android-2.29.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-android:2.29.1] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/e5847d638deeca1f65fa742201820640/jetified-dagger-android-2.29.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/263dcae026df431adfb3aa7d5090edf6/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/263dcae026df431adfb3aa7d5090edf6/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/80a1acc9ebed5b60beeb27e2a578e850/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/80a1acc9ebed5b60beeb27e2a578e850/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/2db11ef93d667a0234466906e0f78442/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/2db11ef93d667a0234466906e0f78442/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/779f49ccc971510d6b9c7336db235321/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/779f49ccc971510d6b9c7336db235321/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/0d386920344cc5c1479e835e61d28043/browser-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/0d386920344cc5c1479e835e61d28043/browser-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/c4d88180786e5b885c6a72408f4d582e/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/c4d88180786e5b885c6a72408f4d582e/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/a5613cc8a90f24827d8e474c23e171f2/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/a5613cc8a90f24827d8e474c23e171f2/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/8cdaa22a8ecf9bee0157ebd1773ea758/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/8cdaa22a8ecf9bee0157ebd1773ea758/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/72c44d07be5f7617e17c500d6c7cd077/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/72c44d07be5f7617e17c500d6c7cd077/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/cab775a407ad1e03d2f53e22a0cf7eb4/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/cab775a407ad1e03d2f53e22a0cf7eb4/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/b574d3c193d6c215f321909fdd66414f/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/b574d3c193d6c215f321909fdd66414f/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/9e36abcc6d37f9e7a66f7a7864b01f17/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/9e36abcc6d37f9e7a66f7a7864b01f17/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-core:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/05bedb1ad8cc29bd23be85cbe1a45fc9/jetified-facebook-core-5.15.3/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/05bedb1ad8cc29bd23be85cbe1a45fc9/jetified-facebook-core-5.15.3/AndroidManifest.xml:24:5-26:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/2fd5bc97707856c1d5b487a9d7d0a62d/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/2fd5bc97707856c1d5b487a9d7d0a62d/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/75adb895cb718cf99349808d7e9a2e9a/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/75adb895cb718cf99349808d7e9a2e9a/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/d4b7c12fb00596576c82852beed4fb85/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/d4b7c12fb00596576c82852beed4fb85/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/025d2bbe4fee036bced00cf0c6be1c91/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/025d2bbe4fee036bced00cf0c6be1c91/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/8ee4e5bd731ae8f4abbc03060fe318e8/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/8ee4e5bd731ae8f4abbc03060fe318e8/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/ecd3d9ca6d1e48ab29eaba14e0dd6ee3/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/ecd3d9ca6d1e48ab29eaba14e0dd6ee3/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/6b48cc8f82951af9fb64f7e0ef2946e1/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/6b48cc8f82951af9fb64f7e0ef2946e1/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/20e762442b52d59f98027491d3f53e6e/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/20e762442b52d59f98027491d3f53e6e/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/223213307bbc71b786924142b673f699/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/223213307bbc71b786924142b673f699/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/b8b71da05ccfd32ac352442571db71af/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/b8b71da05ccfd32ac352442571db71af/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/8baaa24691cd91aa6c070397ba201e9b/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/8baaa24691cd91aa6c070397ba201e9b/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7c6a28d94886e6ada73a6ff2de46668c/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7c6a28d94886e6ada73a6ff2de46668c/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/4849d036c6909edc0e28bee614bfe949/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/4849d036c6909edc0e28bee614bfe949/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/50ecbc659a0ab249b4f8089644aa3c52/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/50ecbc659a0ab249b4f8089644aa3c52/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/3fee7128c108f28625eed830198d9c65/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/3fee7128c108f28625eed830198d9c65/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/f61d1c5e8c68d320086b3a16342532c5/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/f61d1c5e8c68d320086b3a16342532c5/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/d0f8a7abee1dbb04a5476eec805daf66/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/d0f8a7abee1dbb04a5476eec805daf66/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/36474852656cd7f1e2dc00a0aff4348b/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/36474852656cd7f1e2dc00a0aff4348b/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/150a2621922aeab203b5a92b59c8c604/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/150a2621922aeab203b5a92b59c8c604/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/2464eb19d518de314f9cd414bb9b5190/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/2464eb19d518de314f9cd414bb9b5190/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/8f5e7a7b6d9306969e969bbf9fcbcc81/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/8f5e7a7b6d9306969e969bbf9fcbcc81/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/648e6da061d4386333f07c5d1a8e2bf5/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/648e6da061d4386333f07c5d1a8e2bf5/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/ed2140bc0bd0ae68bce88dba68afb606/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/ed2140bc0bd0ae68bce88dba68afb606/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/028434bb75e1cbe0fbeed66dcdc80014/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/028434bb75e1cbe0fbeed66dcdc80014/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:dagger-lint-aar:2.29.1] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/4d20a7d4e09be4047eb06968f36a18c6/jetified-dagger-lint-aar-2.29.1/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.29.1] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/4d20a7d4e09be4047eb06968f36a18c6/jetified-dagger-lint-aar-2.29.1/AndroidManifest.xml:18:3-42
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/fd564f966edf6b84bf7fa4da365ebfc8/jetified-installreferrer-1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/fd564f966edf6b84bf7fa4da365ebfc8/jetified-installreferrer-1.0/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [:FacebookLoginLibrary] /Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/FacebookLoginLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from [:FacebookLoginLibrary] /Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/FacebookLoginLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:22-64
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from [:FacebookLoginLibrary] /Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/FacebookLoginLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:9-16:55
+	android:value
+		ADDED from [:FacebookLoginLibrary] /Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/FacebookLoginLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:13-52
+	android:name
+		ADDED from [:FacebookLoginLibrary] /Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/FacebookLoginLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-58
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:30:9-33:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:32:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:33:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:31:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:34:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:34:19-68
+activity#com.facebook.CustomTabActivity
+ADDED from [com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:35:9-49:20
+	tools:node
+		ADDED from [com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:38:13-31
+	android:exported
+		ADDED from [com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:37:13-36
+	android:name
+		ADDED from [com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:36:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:cct.${applicationId}+data:scheme:fbconnect
+ADDED from [com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:39:13-48:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:cct.com.example.facebookloginlibrary+data:scheme:fbconnect
+ADDED from [com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:39:13-48:29
+action#android.intent.action.VIEW
+ADDED from [com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from [com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:40:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:42:17-76
+	android:name
+		ADDED from [com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:42:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:43:17-78
+	android:name
+		ADDED from [com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:43:27-75
+data
+ADDED from [com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:45:17-47:50
+	android:host
+		ADDED from [com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:46:21-56
+	android:scheme
+		ADDED from [com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:47:21-47
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/05bedb1ad8cc29bd23be85cbe1a45fc9/jetified-facebook-core-5.15.3/AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/05bedb1ad8cc29bd23be85cbe1a45fc9/jetified-facebook-core-5.15.3/AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/05bedb1ad8cc29bd23be85cbe1a45fc9/jetified-facebook-core-5.15.3/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/05bedb1ad8cc29bd23be85cbe1a45fc9/jetified-facebook-core-5.15.3/AndroidManifest.xml:40:13-70
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/05bedb1ad8cc29bd23be85cbe1a45fc9/jetified-facebook-core-5.15.3/AndroidManifest.xml:44:9-50:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/05bedb1ad8cc29bd23be85cbe1a45fc9/jetified-facebook-core-5.15.3/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/05bedb1ad8cc29bd23be85cbe1a45fc9/jetified-facebook-core-5.15.3/AndroidManifest.xml:45:13-86
+intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/05bedb1ad8cc29bd23be85cbe1a45fc9/jetified-facebook-core-5.15.3/AndroidManifest.xml:47:13-49:29
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/05bedb1ad8cc29bd23be85cbe1a45fc9/jetified-facebook-core-5.15.3/AndroidManifest.xml:48:17-95
+	android:name
+		ADDED from [com.facebook.android:facebook-core:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/05bedb1ad8cc29bd23be85cbe1a45fc9/jetified-facebook-core-5.15.3/AndroidManifest.xml:48:25-92
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.android.installreferrer:installreferrer:1.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/fd564f966edf6b84bf7fa4da365ebfc8/jetified-installreferrer-1.0/AndroidManifest.xml:9:5-110
+	android:name
+		ADDED from [com.android.installreferrer:installreferrer:1.0] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/fd564f966edf6b84bf7fa4da365ebfc8/jetified-installreferrer-1.0/AndroidManifest.xml:9:22-107

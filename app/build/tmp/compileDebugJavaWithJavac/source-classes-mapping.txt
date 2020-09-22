@@ -1,0 +1,10 @@
+com/example/facebookloginlibrary/BuildConfig.java
+ com.example.facebookloginlibrary.BuildConfig
+com/example/facebookloginlibrary/databinding/ActivityMainBinding.java
+ com.example.facebookloginlibrary.databinding.ActivityMainBinding
+com/example/facebookloginlibrary/FaceBookLoginModule_ProvideFacebooLoginProviderFactory.java
+ com.example.facebookloginlibrary.FaceBookLoginModule_ProvideFacebooLoginProviderFactory
+com/example/facebookloginlibrary/DaggerFacebookComponent.java
+ com.example.facebookloginlibrary.DaggerFacebookComponent
+ com.example.facebookloginlibrary.DaggerFacebookComponent$1
+ com.example.facebookloginlibrary.DaggerFacebookComponent$Builder
