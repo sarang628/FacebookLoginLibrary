@@ -22,7 +22,7 @@ public class FacebookLoginProviderImpl implements FacebookLoginProvider {
     private final CallbackManager callbackManager;
     private OnResultLoginListener onResultLoginListener;
 
-    public static FacebookLoginProviderImpl getInstance() {
+    protected static FacebookLoginProviderImpl getInstance() {
         if (facebookLoginProvider == null)
             synchronized (FacebookLoginProviderImpl.class) {
                 if (facebookLoginProvider == null)
@@ -31,7 +31,7 @@ public class FacebookLoginProviderImpl implements FacebookLoginProvider {
         return facebookLoginProvider;
     }
 
-    public FacebookLoginProviderImpl() {
+    private FacebookLoginProviderImpl() {
         callbackManager = CallbackManager.Factory.create();
         LoginManager.getInstance().registerCallback(callbackManager, new FacebookCallback<LoginResult>() {
 
@@ -69,14 +69,21 @@ public class FacebookLoginProviderImpl implements FacebookLoginProvider {
 
     @Override
     public void requestLogin(Activity activity, OnResultLoginListener onResultLoginListener) {
-        this.onResultLoginListener = onResultLoginListener;
+        if (onResultLoginListener != null)
+            this.onResultLoginListener = onResultLoginListener;
         LoginManager.getInstance().logInWithReadPermissions(activity, Arrays.asList("public_profile", "email"));
     }
 
     @Override
     public boolean isLoggedIn() {
+        Log.d(TAG, "call is LogedIn");
         AccessToken accessToken = AccessToken.getCurrentAccessToken();
         return accessToken != null;
+    }
+
+    @Override
+    public void setOnLoginResultListener(OnResultLoginListener onResultLoginListener) {
+        this.onResultLoginListener = onResultLoginListener;
     }
 
     @Override
@@ -106,4 +113,5 @@ public class FacebookLoginProviderImpl implements FacebookLoginProvider {
     public void showStatusDialog(Context context) {
         FacebookLoginInfoDialog.Companion.show(context);
     }
+
 }

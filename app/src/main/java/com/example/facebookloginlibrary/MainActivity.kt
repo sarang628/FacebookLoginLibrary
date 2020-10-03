@@ -7,32 +7,44 @@ import android.view.LayoutInflater
 import com.example.facebookloginlibrary.databinding.ActivityMainBinding
 import com.example.loginlibrary.FacebookLoginProvider
 import com.example.loginlibrary.FacebookLoginProviderImpl
+import javax.inject.Inject
 
 class MainActivity : AppCompatActivity() {
-    val facebookLoginProvider = FacebookLoginProviderImpl()
+
+    @Inject
+    lateinit var facebookLoginProvider: FacebookLoginProvider
+
     override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceState)
         val activityMainActivity = ActivityMainBinding.inflate(LayoutInflater.from(this))
+        super.onCreate(savedInstanceState)
+        //Inject
+        (application as FaceBookApplication).facebookComponent.inject(this)
         setContentView(activityMainActivity.root)
+
+        facebookLoginProvider.setOnLoginResultListener {
+            facebookLoginProvider.showStatusDialog(this)
+            activityMainActivity.tvLogin.text =
+                    "isLogin = ${facebookLoginProvider.isLoggedIn}\n" +
+                            "token = ${facebookLoginProvider.token}"
+        }
+
+
         activityMainActivity.tvLogin.text = "" +
                 "isLogin = ${facebookLoginProvider.isLoggedIn}\n" +
                 "token = ${facebookLoginProvider.token}"
 
+
+
         activityMainActivity.btnLogin.setOnClickListener {
-            facebookLoginProvider.requestLogin(this) {
-                facebookLoginProvider.showStatusDialog(this)
-                activityMainActivity.tvLogin.text =
-                    "isLogin = ${facebookLoginProvider.isLoggedIn}\n" +
-                            "token = ${facebookLoginProvider.token}"
-            }
+            facebookLoginProvider.requestLogin(this, null)
         }
 
         activityMainActivity.btnLogout.setOnClickListener {
             facebookLoginProvider.logout {
                 facebookLoginProvider.showStatusDialog(this)
                 activityMainActivity.tvLogin.text =
-                    "isLogin = ${facebookLoginProvider.isLoggedIn}\n" +
-                            "token = ${facebookLoginProvider.token}"
+                        "isLogin = ${facebookLoginProvider.isLoggedIn}\n" +
+                                "token = ${facebookLoginProvider.token}"
             }
         }
     }
