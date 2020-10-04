@@ -22,7 +22,7 @@ public class FacebookLoginProviderImpl implements FacebookLoginProvider {
     private final CallbackManager callbackManager;
     private OnResultLoginListener onResultLoginListener;
 
-    protected static FacebookLoginProviderImpl getInstance() {
+    public static FacebookLoginProviderImpl getInstance() {
         if (facebookLoginProvider == null)
             synchronized (FacebookLoginProviderImpl.class) {
                 if (facebookLoginProvider == null)
