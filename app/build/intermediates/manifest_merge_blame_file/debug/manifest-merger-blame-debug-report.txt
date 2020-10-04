@@ -34,100 +34,99 @@
 21-->/Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml:10:9-54
 22        android:supportsRtl="true"
 22-->/Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml:11:9-35
-23        android:testOnly="true"
-24        android:theme="@style/Theme.FacebookLoginLibrary" >
-24-->/Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml:12:9-58
-25        <activity android:name="com.example.facebookloginlibrary.MainActivity" >
-25-->/Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml:13:9-19:20
-25-->/Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml:13:19-47
-26            <intent-filter>
-26-->/Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml:14:13-18:29
-27                <action android:name="android.intent.action.MAIN" />
-27-->/Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml:15:17-69
-27-->/Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml:15:25-66
-28
-29                <category android:name="android.intent.category.LAUNCHER" />
-29-->/Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml:17:17-77
-29-->/Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml:17:27-74
-30            </intent-filter>
-31        </activity>
-32
-33        <meta-data
-33-->[:FacebookLoginLibrary] /Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/FacebookLoginLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:9-16:55
-34            android:name="com.facebook.sdk.ApplicationId"
-34-->[:FacebookLoginLibrary] /Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/FacebookLoginLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-58
-35            android:value="@string/facebook_app_id" />
-35-->[:FacebookLoginLibrary] /Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/FacebookLoginLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:13-52
-36
-37        <activity
-37-->[com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:30:9-33:66
-38            android:name="com.facebook.FacebookActivity"
-38-->[com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:31:13-57
-39            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
-39-->[com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:32:13-96
-40            android:theme="@style/com_facebook_activity_theme" />
-40-->[com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:33:13-63
-41        <activity android:name="com.facebook.CustomTabMainActivity" />
-41-->[com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:34:9-71
-41-->[com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:34:19-68
-42        <activity
-42-->[com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:35:9-49:20
-43            android:name="com.facebook.CustomTabActivity"
-43-->[com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:36:13-58
-44            android:exported="true" >
-44-->[com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:37:13-36
-45            <intent-filter>
-45-->[com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:39:13-48:29
-46                <action android:name="android.intent.action.VIEW" />
-46-->[com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:40:17-69
-46-->[com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:40:25-66
-47
-48                <category android:name="android.intent.category.DEFAULT" />
-48-->[com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:42:17-76
-48-->[com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:42:27-73
-49                <category android:name="android.intent.category.BROWSABLE" />
-49-->[com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:43:17-78
-49-->[com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:43:27-75
-50
-51                <data
-51-->[com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:45:17-47:50
-52                    android:host="cct.com.example.facebookloginlibrary"
-52-->[com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:46:21-56
-53                    android:scheme="fbconnect" />
-53-->[com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:47:21-47
-54            </intent-filter>
-55        </activity>
-56        <!--
-57         The initialization ContentProvider will call FacebookSdk.sdkInitialize automatically
-58         with the application context. This config is merged in with the host app's manifest,
-59         but there can only be one provider with the same authority activated at any given
-60         point; so if the end user has two or more different apps that use Facebook SDK, only the
-61         first one will be able to use the provider. To work around this problem, we use the
-62         following placeholder in the authority to identify each host application as if it was
-63         a completely different provider.
-64        -->
-65        <provider
-65-->[com.facebook.android:facebook-core:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/05bedb1ad8cc29bd23be85cbe1a45fc9/jetified-facebook-core-5.15.3/AndroidManifest.xml:39:9-42:40
-66            android:name="com.facebook.internal.FacebookInitProvider"
-66-->[com.facebook.android:facebook-core:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/05bedb1ad8cc29bd23be85cbe1a45fc9/jetified-facebook-core-5.15.3/AndroidManifest.xml:40:13-70
-67            android:authorities="com.example.facebookloginlibrary.FacebookInitProvider"
-67-->[com.facebook.android:facebook-core:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/05bedb1ad8cc29bd23be85cbe1a45fc9/jetified-facebook-core-5.15.3/AndroidManifest.xml:41:13-72
-68            android:exported="false" />
-68-->[com.facebook.android:facebook-core:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/05bedb1ad8cc29bd23be85cbe1a45fc9/jetified-facebook-core-5.15.3/AndroidManifest.xml:42:13-37
-69
-70        <receiver
-70-->[com.facebook.android:facebook-core:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/05bedb1ad8cc29bd23be85cbe1a45fc9/jetified-facebook-core-5.15.3/AndroidManifest.xml:44:9-50:20
-71            android:name="com.facebook.CurrentAccessTokenExpirationBroadcastReceiver"
-71-->[com.facebook.android:facebook-core:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/05bedb1ad8cc29bd23be85cbe1a45fc9/jetified-facebook-core-5.15.3/AndroidManifest.xml:45:13-86
-72            android:exported="false" >
-72-->[com.facebook.android:facebook-core:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/05bedb1ad8cc29bd23be85cbe1a45fc9/jetified-facebook-core-5.15.3/AndroidManifest.xml:46:13-37
-73            <intent-filter>
-73-->[com.facebook.android:facebook-core:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/05bedb1ad8cc29bd23be85cbe1a45fc9/jetified-facebook-core-5.15.3/AndroidManifest.xml:47:13-49:29
-74                <action android:name="com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED" />
-74-->[com.facebook.android:facebook-core:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/05bedb1ad8cc29bd23be85cbe1a45fc9/jetified-facebook-core-5.15.3/AndroidManifest.xml:48:17-95
-74-->[com.facebook.android:facebook-core:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/05bedb1ad8cc29bd23be85cbe1a45fc9/jetified-facebook-core-5.15.3/AndroidManifest.xml:48:25-92
-75            </intent-filter>
-76        </receiver>
-77    </application>
-78
-79</manifest>
+23        android:theme="@style/Theme.FacebookLoginLibrary" >
+23-->/Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml:12:9-58
+24        <activity android:name="com.example.facebookloginlibrary.MainActivity" >
+24-->/Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml:13:9-19:20
+24-->/Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml:13:19-47
+25            <intent-filter>
+25-->/Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml:14:13-18:29
+26                <action android:name="android.intent.action.MAIN" />
+26-->/Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml:15:17-69
+26-->/Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml:15:25-66
+27
+28                <category android:name="android.intent.category.LAUNCHER" />
+28-->/Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml:17:17-77
+28-->/Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/app/src/main/AndroidManifest.xml:17:27-74
+29            </intent-filter>
+30        </activity>
+31
+32        <meta-data
+32-->[:FacebookLoginLibrary] /Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/FacebookLoginLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:9-16:55
+33            android:name="com.facebook.sdk.ApplicationId"
+33-->[:FacebookLoginLibrary] /Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/FacebookLoginLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-58
+34            android:value="@string/facebook_app_id" />
+34-->[:FacebookLoginLibrary] /Users/sarangyang/AndroidStudioProjects/FacebookLoginLibrary/FacebookLoginLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:13-52
+35
+36        <activity
+36-->[com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:30:9-33:66
+37            android:name="com.facebook.FacebookActivity"
+37-->[com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:31:13-57
+38            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+38-->[com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:32:13-96
+39            android:theme="@style/com_facebook_activity_theme" />
+39-->[com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:33:13-63
+40        <activity android:name="com.facebook.CustomTabMainActivity" />
+40-->[com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:34:9-71
+40-->[com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:34:19-68
+41        <activity
+41-->[com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:35:9-49:20
+42            android:name="com.facebook.CustomTabActivity"
+42-->[com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:36:13-58
+43            android:exported="true" >
+43-->[com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:37:13-36
+44            <intent-filter>
+44-->[com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:39:13-48:29
+45                <action android:name="android.intent.action.VIEW" />
+45-->[com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:40:17-69
+45-->[com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:40:25-66
+46
+47                <category android:name="android.intent.category.DEFAULT" />
+47-->[com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:42:17-76
+47-->[com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:42:27-73
+48                <category android:name="android.intent.category.BROWSABLE" />
+48-->[com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:43:17-78
+48-->[com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:43:27-75
+49
+50                <data
+50-->[com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:45:17-47:50
+51                    android:host="cct.com.example.facebookloginlibrary"
+51-->[com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:46:21-56
+52                    android:scheme="fbconnect" />
+52-->[com.facebook.android:facebook-common:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/7f3d56006850629026be4f475d17b440/jetified-facebook-common-5.15.3/AndroidManifest.xml:47:21-47
+53            </intent-filter>
+54        </activity>
+55        <!--
+56         The initialization ContentProvider will call FacebookSdk.sdkInitialize automatically
+57         with the application context. This config is merged in with the host app's manifest,
+58         but there can only be one provider with the same authority activated at any given
+59         point; so if the end user has two or more different apps that use Facebook SDK, only the
+60         first one will be able to use the provider. To work around this problem, we use the
+61         following placeholder in the authority to identify each host application as if it was
+62         a completely different provider.
+63        -->
+64        <provider
+64-->[com.facebook.android:facebook-core:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/05bedb1ad8cc29bd23be85cbe1a45fc9/jetified-facebook-core-5.15.3/AndroidManifest.xml:39:9-42:40
+65            android:name="com.facebook.internal.FacebookInitProvider"
+65-->[com.facebook.android:facebook-core:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/05bedb1ad8cc29bd23be85cbe1a45fc9/jetified-facebook-core-5.15.3/AndroidManifest.xml:40:13-70
+66            android:authorities="com.example.facebookloginlibrary.FacebookInitProvider"
+66-->[com.facebook.android:facebook-core:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/05bedb1ad8cc29bd23be85cbe1a45fc9/jetified-facebook-core-5.15.3/AndroidManifest.xml:41:13-72
+67            android:exported="false" />
+67-->[com.facebook.android:facebook-core:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/05bedb1ad8cc29bd23be85cbe1a45fc9/jetified-facebook-core-5.15.3/AndroidManifest.xml:42:13-37
+68
+69        <receiver
+69-->[com.facebook.android:facebook-core:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/05bedb1ad8cc29bd23be85cbe1a45fc9/jetified-facebook-core-5.15.3/AndroidManifest.xml:44:9-50:20
+70            android:name="com.facebook.CurrentAccessTokenExpirationBroadcastReceiver"
+70-->[com.facebook.android:facebook-core:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/05bedb1ad8cc29bd23be85cbe1a45fc9/jetified-facebook-core-5.15.3/AndroidManifest.xml:45:13-86
+71            android:exported="false" >
+71-->[com.facebook.android:facebook-core:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/05bedb1ad8cc29bd23be85cbe1a45fc9/jetified-facebook-core-5.15.3/AndroidManifest.xml:46:13-37
+72            <intent-filter>
+72-->[com.facebook.android:facebook-core:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/05bedb1ad8cc29bd23be85cbe1a45fc9/jetified-facebook-core-5.15.3/AndroidManifest.xml:47:13-49:29
+73                <action android:name="com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED" />
+73-->[com.facebook.android:facebook-core:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/05bedb1ad8cc29bd23be85cbe1a45fc9/jetified-facebook-core-5.15.3/AndroidManifest.xml:48:17-95
+73-->[com.facebook.android:facebook-core:5.15.3] /Users/sarangyang/.gradle/caches/transforms-2/files-2.1/05bedb1ad8cc29bd23be85cbe1a45fc9/jetified-facebook-core-5.15.3/AndroidManifest.xml:48:25-92
+74            </intent-filter>
+75        </receiver>
+76    </application>
+77
+78</manifest>

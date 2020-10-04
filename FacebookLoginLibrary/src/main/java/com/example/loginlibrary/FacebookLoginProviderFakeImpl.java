@@ -55,6 +55,11 @@ public class FacebookLoginProviderFakeImpl implements FacebookLoginProvider {
     }
 
     @Override
+    public void requestLogin(Activity activity) {
+
+    }
+
+    @Override
     public void requestLogin(Activity activity, OnResultLoginListener onResultLoginListener) {
         Log.d(TAG, "requestLogin");
     }

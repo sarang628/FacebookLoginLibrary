@@ -68,10 +68,15 @@ public class FacebookLoginProviderImpl implements FacebookLoginProvider {
     }
 
     @Override
+    public void requestLogin(Activity activity) {
+        LoginManager.getInstance().logInWithReadPermissions(activity, Arrays.asList("public_profile", "email"));
+    }
+
+    @Override
     public void requestLogin(Activity activity, OnResultLoginListener onResultLoginListener) {
         if (onResultLoginListener != null)
             this.onResultLoginListener = onResultLoginListener;
-        LoginManager.getInstance().logInWithReadPermissions(activity, Arrays.asList("public_profile", "email"));
+        requestLogin(activity);
     }
 
     @Override

@@ -8,6 +8,14 @@ public interface FacebookLoginProvider {
 
     /**
      * 로그인 요청
+     *
+     * @param activity
+     */
+    void requestLogin(Activity activity);
+
+    /**
+     * 로그인 요청
+     *
      * @param activity
      * @param onResultLoginListener setOnLoginResultListener를 통해 추가했을경우 null 처리해도 됩니다.
      */
@@ -46,10 +54,14 @@ public interface FacebookLoginProvider {
     /**
      * 로그인 결과 리스너
      */
-    interface OnResultLoginListener { void onResult(String accessToken);}
+    interface OnResultLoginListener {
+        void onResult(String accessToken);
+    }
 
     /**
      * 로그아웃 결과 리스너
      */
-    interface OnResultLogoutListener { void onResult(int result);}
+    interface OnResultLogoutListener {
+        void onResult(int result);
+    }
 }

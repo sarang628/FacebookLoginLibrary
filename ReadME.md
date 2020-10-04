@@ -29,7 +29,11 @@ interface AppComponent {
 }
 ```
 
-## 4. FacebookLoginProvider 사용하기
+## 4. 애플리케이션과 애플리케이션 컴포넌트 만들기
+
+## 5. 페이스북 키 등록하기
+
+## 6. FacebookLoginProvider 사용하기
 
 ### 로그인 요청
 
